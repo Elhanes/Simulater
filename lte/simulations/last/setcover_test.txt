@@ -1,0 +1,1 @@
+t connectivity RTT UEname DCname PGWname connectedUE activeDC activePGW DCpower
